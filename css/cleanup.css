@@ -1,1 +1,20 @@
 /* write your override styles here */
+#wall .tag1 {
+    display: none;
+    background-color: blueviolet;
+}
+#wall .tag2 {
+    display: grid;
+    color: yellow;
+}
+#wall .tag3{
+    display: inline;
+    color: aliceblue;
+}
+#wall .tag4{
+    display: subgrid;
+    color: aquamarine;
+}
+#wall .tag5{
+    display: flexbox;
+}
